@@ -146,7 +146,8 @@ Example Markdown references:
 ![Instances](screenshots/project2-instances.png)
 
 ### Browser Result  
-![Browser](screenshots/project2-browser.png)
+![Browser](screenshots/project2-browser1.png)
+![Browser](screenshots/project2-browser2.png)
 
 ---
 
